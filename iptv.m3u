@@ -1,0 +1,79 @@
+#EXTM3U 
+#EXTINF: -1 group-title="AZERBAYCAN", AzTV
+http://mfe.cliptv.az/dash/AzTV_SD.ism/playlist.mpd?checkedby:iptvcat.net
+#EXTINF: -1 group-title="AZERBAYCAN", Ictimai
+http://mfe.cliptv.az/dash/Ictimai_HD.ism/playlist.mpd?checkedby:iptvcat.net
+#EXTINF: -1 group-title="AZERBAYCAN", ARB
+http://mfe.cliptv.az/dash/ARB_SD.ism/playlist.mpd?checkedby:iptvcat.net
+#EXTINF: -1 group-title="AZERBAYCAN", ATV
+http://c72e9b8e.akadatel.com/iptv/A4UCYCZ6ENNA93/2200/index.m3u8
+#EXTINF: -1 group-title="AZERBAYCAN", XEZER
+http://mfe.cliptv.az/dash/Xezer_SD.ism/playlist.mpd?checkedby:iptvcat.net
+#EXTINF: -1 group-title="AZERBAYCAN", Space
+http://mfe.cliptv.az/dash/Space_SD.ism/playlist.mpd?checkedby:iptvcat.net
+#EXTINF: -1 group-title="AZERBAYCAN", Baku.TV
+https://rtmp.baku.tv/live/bakutv_540p.m3u8
+#EXTINF: -1 group-title="AZERBAYCAN", Real TV
+http://mfe.cliptv.az/dash/Real_TV_SD.ism/playlist.mpd?checkedby:iptvcat.net
+#EXTINF: -1 group-title="AZERBAYCAN", ARB 24
+http://mfe.cliptv.az/dash/ARB_24_SD.ism/playlist.mpd?checkedby:iptvcat.net
+#EXTINF: -1 group-title="AZERBAYCAN", ARB Günəş
+http://mfe.cliptv.az/dash/ARB_Gunesh_SD.ism/playlist.mpd?checkedby:iptvcat.net
+#EXTINF: -1 group-title="AZERBAYCAN", Kanal S
+http://mfe.cliptv.az/dash/DalgaTV_SD.ism/playlist.mpd?checkedby:iptvcat.net
+#EXTINF: -1 group-title="AZERBAYCAN", ATV 2
+http://85.132.81.184:8080/atv-2/index.m3u8
+#EXTINF: -1 group-title="AZERBAYCAN", ATV 4
+http://85.132.81.184:8080/atv-4/index.m3u8
+#EXTINF: -1 group-title="AZERBAYCAN", CBC Azerbaijan
+http://mfe.cliptv.az/dash/CBC_Azerbaijan_SD.ism/playlist.mpd?checkedby:iptvcat.net
+#EXTINF: -1 group-title="AZERBAYCAN", CBC SPORT HD
+http://mfe.cliptv.az/dash/CBC_Sport_HD.ism/playlist.mpd?checkedby:iptvcat.net
+#EXTINF: -1 group-title="AZERBAYCAN", Dunya TV
+http://mfe.cliptv.az/dash/Dunya_TV.ism/playlist.mpd?checkedby:iptvcat.net
+#EXTINF: -1 group-title="AZERBAYCAN", Idman Az
+http://mfe.cliptv.az/dash/Idman_HD.ism/playlist.mpd?checkedby:iptvcat.net
+#EXTINF: -1 group-title="AZERBAYCAN", Mədəniyyət
+http://mfe.cliptv.az/dash/Medeniyyet_SD.ism/playlist.mpd?checkedby:iptvcat.net
+#EXTINF: -1 group-title="AZERBAYCAN", MuzTV
+http://mfe.cliptv.az/dash/MuzTV_Azeri_SD.ism/playlist.mpd?checkedby:iptvcat.net
+#EXTINF: -1 group-title="AZERBAYCAN", Könül TV
+http://cdn-konultvazerbaijan.yayin.com.tr/konultvazerbaijan/konultvazerbaijan/chunklist_w892910608.m3u8
+#EXTINF: -1 group-title="AZERBAYCAN", Live TV
+http://95.217.196.109:8081/azerbaijan/livetv/chunks.m3u8
+#EXTINF: -1 group-title="AZERBAYCAN", Qafqaz TV
+http://api.canlitvplayer.com/str.yodacdn.net/qafkaz/mono.m3u8?token=f3215d55e722954033783f3dd4ea88b87c9a22e7-e81fa0fa6395f13455d0eddddc72eb33-1664271536-1664260736
+#EXTINF: -1 group-title="AZERBAYCAN", Ser TV
+http://91.134.203.253:30124/sertv/sertv/chunklist.m3u8
+#EXTINF: -1 group-title="AZERBAYCAN", ANT HD
+https://edge1.socialsmart.tv/aznews/smil/aznews/720p/chunks.m3u8
+#EXTINF: -1 group-title="AZERBAYCAN", Səhər TV
+http://185.236.229.31:9981/play/a02l
+#EXTINF: -1 group-title="AZERBAYCAN", AZ STAR TV
+http://live.azstartv.com/azstar/azstar_240p/playlist.m3u8
+#EXTINF: -1 group-title="AZERBAYCAN", AZE K12
+http://waw2.artiyerelmedya.net/kanal12/bant1/playlist.m3u8
+#EXTINF: -1 group-title="AZERBAYCAN", QƏBƏLƏ TV
+https://qebele.tv/live/stream/index.m3u8
+#EXTINF: -1 group-title="AZERBAYCAN", Naxcivan TV
+http://canli.naxcivantv.az/media/ntvlive123.m3u8
+#EXTINF: -1 group-title="AZERBAYCAN", Mingeçevir tv
+http://cdn10-alvinchannel.yayin.com.tr/alvinchannel/alvinchannel/chunklist_w173010177.m3u8
+#EXTINF: -1 group-title="AZERBAYCAN", Muğan TV
+http://cdn10-mugantv.yayin.com.tr/mugantv/mugantv/playlist.m3u8?checkedby:iptvcat.net
+#EXTINF: -1 group-title="AZERBAYCAN", Turan TV
+https://donvolga.com/Turan-TV/video.m3u8
+#EXTINF: -1 group-title="AZERBAYCAN", Kəpəz TV
+http://85.132.81.184:8080/arbkepez/live/index.m3u8?checkedby:iptvcat.net
+#EXTINF: -1 group-title="AZERBAYCAN", HADI TV
+https://live.ishiacloud.com/hls/1d6e10dc-7bfc-4abb-9bb3-0dfe80b3d7df_720p.m3u8
+#EXTINF: -1 group-title="AZERBAYCAN", INTERAZ
+http://yerelmedya.tv:1935/interaz/bant1/playlist.m3u8
+#EXTINF: -1 group-title="AZERBAYCAN", ALZAHRA TV
+https://live.al-zahratv.com/live/playlist2/index.m3u8
+#EXTINF: -1 group-title="AZERBAYCAN", Yevlax TV
+http://85.132.53.162:1935/live/eltv/chunklist_.m3u8
+#EXTINF: -1 group-title="AZERBAYCAN", SES TV
+http://ov1.radyotelekomtv.com:22702/maksimtv/maksimtv/chunklist_w.m3u8
+#EXTINF: -1 group-title="AZERBAYCAN", VOSTOK TV
+http://topchantv.net:3456/live/cdn_Top/PPEIyMvacU/489.m3u8
