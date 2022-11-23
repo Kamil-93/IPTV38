@@ -79,65 +79,65 @@ http://ov1.radyotelekomtv.com:22702/maksimtv/maksimtv/chunklist_w.m3u8
 http://topchantv.net:3456/live/cdn_Top/PPEIyMvacU/489.m3u8
 
 
-#EXTINF:-1 group-title="TURK" ,Kanal D
+#EXTINF:-1 group-title="TURK",Kanal D
 http://mfe.cliptv.az/dash/Kanal_D_HD.ism/playlist.mpd?checkedby:iptvcat.net
-#EXTINF:-1,ATV TURK
+#EXTINF:-1 group-title="TURK",ATV
 http://mfe.cliptv.az/dash/ATV_Turk_HD.ism/playlist.mpd?checkedby:iptvcat.net
-#EXTINF:-1,Show
+#EXTINF:-1 group-title="TURK",Show TV
 http://mfe.cliptv.az/dash/Show_HD.ism/playlist.mpd?checkedby:iptvcat.net
-#EXTINF:-1,Star
+#EXTINF:-1 group-title="TURK",Star
 http://mfe.cliptv.az/dash/Star_TV_HD.ism/playlist.mpd?checkedby:iptvcat.net
-#EXTINF:-1,Kanal 7
+#EXTINF:-1 group-title="TURK",Kanal 7
 http://mfe.cliptv.az/dash/Kanal_7_SD.ism/playlist.mpd?checkedby:iptvcat.net
-#EXTINF:-1,DMAX
+#EXTINF:-1 group-title="TURK",DMAX
 http://mfe.cliptv.az/dash/DMAX_HD.ism/playlist.mpd?checkedby:iptvcat.net
-#EXTINF:-1,HABERTÜRK
+#EXTINF:-1 group-title="TURK",HABERTÜRK
 http://mfe.cliptv.az/dash/HaberTurk_HD.ism/playlist.mpd?checkedby:iptvcat.net
-#EXTINF:-1,AKILLI TV
+#EXTINF:-1 group-title="TURK",AKILLI TV
 http://mfe.cliptv.az/dash/AKILLI_TV_SD.ism/playlist.mpd?checkedby:iptvcat.net
-#EXTINF:-1,A Spor
+#EXTINF:-1 group-title="TURK",A Spor
 http://mfe.cliptv.az/dash/A_Spor_HD.ism/playlist.mpd?checkedby:iptvcat.net
-#EXTINF:-1,A Haber
+#EXTINF:-1 group-title="TURK",A Haber
 http://mfe.cliptv.az/dash/A_Haber_HD.ism/playlist.mpd?checkedby:iptvcat.net
-#EXTINF:-1,Minika Cocuk
+#EXTINF:-1 group-title="TURK",Minika Cocuk
 http://mfe.cliptv.az/dash/Minika_Cocuk_SD.ism/playlist.mpd?checkedby:iptvcat.net
-#EXTINF:-1,Minika Go
+#EXTINF:-1 group-title="TURK",Minika Go
 http://mfe.cliptv.az/dash/Minika_Go_SD.ism/playlist.mpd?checkedby:iptvcat.net
-#EXTINF:-1,NTV
+#EXTINF:-1 group-title="TURK",NTV
 http://mfe.cliptv.az/dash/NTV_HD.ism/playlist.mpd?checkedby:iptvcat.net
-#EXTINF:-1,TMB TV
+#EXTINF:-1 group-title="TURK",TMB TV
 http://mfe.cliptv.az/dash/TMB_TV_SD.ism/playlist.mpd?checkedby:iptvcat.net
-#EXTINF:-1,TRT 1
+#EXTINF:-1 group-title="TURK",TRT 1
 http://mfe.cliptv.az/dash/TRT_1_HD.ism/playlist.mpd?checkedby:iptvcat.net
-#EXTINF:-1,TRT Belgesel
+#EXTINF:-1 group-title="TURK",TRT Belgesel
 http://mfe.cliptv.az/dash/TRT_Belgesel_HD.ism/playlist.mpd?checkedby:iptvcat.net
-#EXTINF:-1,TRT Cocuk
+#EXTINF:-1 group-title="TURK",TRT Cocuk
 http://mfe.cliptv.az/dash/TRT_Cocuk_HD.ism/playlist.mpd?checkedby:iptvcat.net
-#EXTINF:-1,TRT Haber
+#EXTINF:-1 group-title="TURK",TRT Haber
 http://mfe.cliptv.az/dash/TRT_Haber_HD.ism/playlist.mpd?checkedby:iptvcat.net
-#EXTINF:-1,TRT World
+#EXTINF:-1 group-title="TURK",TRT World
 http://mfe.cliptv.az/dash/TRT_World_HD.ism/playlist.mpd?checkedby:iptvcat.net
-#EXTINF:-1,TV 8
+#EXTINF:-1 group-title="TURK",TV 8
 http://mfe.cliptv.az/dash/TV_8_HD.ism/playlist.mpd?checkedby:iptvcat.net
-#EXTINF:-1,TV 8.5
+#EXTINF:-1 group-title="TURK",TV 8.5
 http://mfe.cliptv.az/dash/TV_8_5_HD.ism/playlist.mpd?checkedby:iptvcat.net
-#EXTINF:-1,Teve 2
+#EXTINF:-1 group-title="TURK",Teve 2
 http://mfe.cliptv.az/dash/TV_2_SD.ism/playlist.mpd?checkedby:iptvcat.net
-#EXTINF:-1,POWERTURK
+#EXTINF:-1 group-title="TURK",POWERTURK
 http://mfe.cliptv.az/dash/POWERTURK_SD.ism/playlist.mpd?checkedby:iptvcat.net
-#EXTINF:-1,Bein Sport 4
+#EXTINF:-1 group-title="TURK",Bein Sport 4
 http://platin4k.eu:80/eagleiptv/SsFAljPDDi/1804?checkedby:iptvcat.net
-#EXTINF:-1,Yaban tv
+#EXTINF:-1 group-title="TURK",Yaban tv
 https://59cba4d34b678.streamlock.net/live1/yabantv/playlist.m3u8
-#EXTINF:-1,DMAX TV
+#EXTINF:-1 group-title="TURK",DMAX TV
 https://dogus-live.daioncdn.net/dmax/dmax_720p.m3u8
-#EXTINF:-1,TLC
+#EXTINF:-1 group-title="TURK",TLC
 https://dogus-live.daioncdn.net/tlc/tlc_720p.m3u8
-#EXTINF:-1,TRT Belgesel
+#EXTINF:-1 group-title="TURK",TRT Belgesel
 http://mfe.cliptv.az/dash/TRT_Belgesel_HD.ism/playlist.mpd?checkedby:iptvcat.net
-#EXTINF:-1,NAT Geo turkce
+#EXTINF:-1 group-title="TURK",NAT Geo turkce
 http://mfe.cliptv.az/dash/National_Geographic_HD.ism/playlist.mpd?checkedby:iptvcat.net
-#EXTINF:-1,TRT haber
+#EXTINF:-1 group-title="TURK",TRT haber
 http://mfe.cliptv.az/dash/TRT_Haber_HD.ism/playlist.mpd?checkedby:iptvcat.net
-#EXTINF:-1,A Haber
+#EXTINF:-1 group-title="TURK",A Haber
 http://mfe.cliptv.az/dash/A_Haber_HD.ism/playlist.mpd?checkedby:iptvcat.net
